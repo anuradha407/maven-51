@@ -12,6 +12,7 @@
   <groupId>testingo</groupId>
   <artifactId>projectt</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
 
   <description>Generated project projectt</description>
 
